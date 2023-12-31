@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmebhushanpatil&label=Profile%20views&color=0e75b6&style=flat" alt="itsmebhushanpatil" /> </p>
 <h1 align="center">Hi 👋, I'm Bhushan Patil</h1>
 <h3 align="center">I'm an apprentice at Geekster, learning to become a full-stack web developer. As of now I focused on backend development using Spring Boot, where I've become skilled in Java and Data Structures and Algorithms (DSA) , OOPs , SQL , Spring boot , Hybernate etc. My passion for coding has helped me understand various things, and I'm always eager to learn more. I've completed the backend part of the curriculum, and I'm dedicated to improving and achieving my best in everything I do.</h3>
 
